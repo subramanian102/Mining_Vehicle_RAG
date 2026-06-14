@@ -1,0 +1,11 @@
+# Sensitive API Keys and Tokens
+.env
+
+# Large Datasets & Local DBs
+*.jsonl
+chroma_db/
+
+# Python environment artifacts
+__pycache__/
+*.pyc
+.venv/
